@@ -1,3 +1,4 @@
+bu yazılım OOP mantığına göre yani nesnel programlama kullanılmıştır.
 ![Ekran görüntüsü 2025-02-15 024424](https://github.com/user-attachments/assets/d7d6b755-9bb1-4f11-ae0d-2ebb0e6e273c)
 ![Ekran görüntüsü 2025-02-15 024404](https://github.com/user-attachments/assets/de6ffb1b-02d3-458a-97de-9fad9dfc8f53)
 ![Ekran görüntüsü 2025-02-15 024324](https://github.com/user-attachments/assets/dc492559-8ecf-4087-b1c0-db2f6e4f4a1b)
