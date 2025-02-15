@@ -1,6 +1,8 @@
 Bu uygulama OOP mantığına göre yani nesne tabanlı programlama ile kodlanmıştır.
 uygulamanın çalışması için JRE kurulumu gerekmektedir.
-![Ekran görüntüsü 2025-02-15 024424](https://github.com/user-attachments/assets/d7d6b755-9bb1-4f11-ae0d-2ebb0e6e273c)
+
+![Ekran görüntüsü 2025-02-15 031436](https://github.com/user-attachments/assets/a3ce136e-6d6b-4753-a464-d6d21f06c6bd)
+
 ![Ekran görüntüsü 2025-02-15 024404](https://github.com/user-attachments/assets/de6ffb1b-02d3-458a-97de-9fad9dfc8f53)
 ![Ekran görüntüsü 2025-02-15 024324](https://github.com/user-attachments/assets/dc492559-8ecf-4087-b1c0-db2f6e4f4a1b)
 ![Ekran görüntüsü 2025-02-15 024315](https://github.com/user-attachments/assets/e6fb9879-6320-44ad-b866-32ac88a4cb12)
